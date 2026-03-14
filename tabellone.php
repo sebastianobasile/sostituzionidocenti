@@ -53,7 +53,7 @@ if (isset($_SESSION['accesso_concesso']) && $_SESSION['accesso_concesso'] === tr
 $config_tab = [
     "titolo_tabellone"   => "SOSTITUZIONI GIORNALIERE",
     "cartella_db"        => "archivio/",
-    "credits"            => "Developed by S. Basile – F.S. Area 2",
+    "credits" => "Developed by S. Basile – F.S. Area 2 | <a href='https://github.com/sebastianobasile/sostituzionidocenti' target='_blank' style='color:#475569;'>GitHub</a>",
     "mostra_trattamento" => true,
     "tempo_refresh"      => 45,
     "colore_sfondo"      => "#0f172a", 
@@ -69,7 +69,7 @@ $config_tab = [
     "msg_ora_avviso"     => "Al di fuori di questo intervallo il servizio potrebbe non essere attivo.",
     "alert_disattivo"    => "PER UNO DEI SEGUENTI MOTIVI: <br>Al momento non risultano sostituzioni disponibili. <br>I dati non sono ancora stati aggiornati. <br>Il servizio è temporaneamente in manutenzione.",
     "usa_password"       => true, 
-    "password_accesso"   => "BasileCambiami"
+    "password_accesso"   => "BasileCambiami" 
 ];
 
 // 5. Logica Password con COOKIE PERSISTENTE e REGISTRAZIONE LOG
