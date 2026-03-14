@@ -5,7 +5,7 @@
 $config = [
     "app_attiva"      => true,
     "usa_password"    => true,
-    "password"        => "Basile_cambiala", 
+    "password"        => "BasileCambiami", 
     "online_def"      => true,
     "istituto_def"    => "SECONDARIA - Capuana-DeAmicis", 
     "dirigente_def"   => "PROF. GIUSEPPE CANINO", 
@@ -21,7 +21,7 @@ $config = [
     "url_orario"      => "https://capuanadeamicis.it",
     "cartella_db"     => "archivio/", 
     "titolo_font_size"=> "1.1rem",       // dimensione font titolo stampa (es. 1rem, 1.2rem, 16px)
-    "credits"         => "Idea e sviluppo: Sebastiano BASILE – F.S. Area 2 | v1.0.0" 
+    "credits" => "Idea e sviluppo: Sebastiano BASILE – F.S. Area 2 | <a href='https://github.com/sebastianobasile/sostituzionidocenti' target='_blank' style='color:#95a5a6;'>v1.0.0</a>" 
 ];
 
 // Limiti massimi assoluti per il rendering dinamico (non modificano il DB)
@@ -535,7 +535,9 @@ $mostra_stampa = (isset($_GET['data_view']) && file_exists($file_db));
         </div>
     </div>
 <?php endif; ?>
-<div class="no-print" style="text-align:center; margin-top:40px; font-size:10px; color:#95a5a6;"><?php echo htmlspecialchars($config['credits']); ?></div>
+<div class="no-print" style="text-align:center; margin-top:40px; font-size:10px; color:#95a5a6;">
+    <?php echo $config['credits']; ?>
+</div>
 
 <?php if($mostra_stampa): ?>
 <script>
