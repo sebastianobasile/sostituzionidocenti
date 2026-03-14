@@ -21,7 +21,7 @@ $config = [
     "url_orario"      => "https://capuanadeamicis.it",
     "cartella_db"     => "archivio/", 
     "titolo_font_size"=> "1.1rem",       // dimensione font titolo stampa (es. 1rem, 1.2rem, 16px)
-    "credits"         => "Idea e sviluppo: Sebastiano BASILE – F.S. Area 2" 
+    "credits"         => "Idea e sviluppo: Sebastiano BASILE – F.S. Area 2 | v1.0.0" 
 ];
 
 // Limiti massimi assoluti per il rendering dinamico (non modificano il DB)
