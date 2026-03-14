@@ -1,6 +1,6 @@
 <?php
 // IMPORTANTE: Questo file deve essere salvato con codifica UTF-8 SENZA BOM
-// NON deve esserci NESSUNO spazio o carattere prima di <?php
+// NON deve esserci NESSUNO spazio o carattere prima di <?php 
 
 // Attiva output buffering per evitare problemi con headers già inviati
 ob_start();
