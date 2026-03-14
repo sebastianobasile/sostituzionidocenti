@@ -278,9 +278,12 @@ Vedi il file [LICENSE](LICENSE) per i dettagli completi.
 ## 👨‍💻 Autore
 
 Sviluppato da **Sebastiano Basile** – Funzione Strumentale Area 2  
-I.C. Capuana-De Amicis, Catania
+I.C. Capuana-De Amicis, Avola (SR)
 
-Distribuito gratuitamente per uso scolastico. Contributi e segnalazioni di bug sono benvenuti tramite le **Issues** di GitHub.
+Distribuito gratuitamente per uso scolastico.  
+Se ti è stato utile, puoi offrire un contributo volontario:
+
+[![Contributo volontario](https://img.shields.io/badge/Offrimi_un_caffè_☕-PayPal-blue)](https://paypal.me/superscuola)
 
 ---
 
