@@ -1,14 +1,9 @@
-# =============================================
-# archivio/.htaccess
-# Protegge i file JSON dai accessi diretti
-# =============================================
-
 # Disabilita la navigazione nella cartella
 Options -Indexes
 
-# Blocca l'accesso diretto a tutti i file
+# Compatibile Apache 2.2
 Order Deny,Allow
 Deny from all
 
-# Alternativa moderna (Apache 2.4+)
-# Require all denied
+# Compatibile Apache 2.4+
+Require all denied
