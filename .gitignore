@@ -1,0 +1,5 @@
+archivio/*.json
+archivio/accessi_log.txt
+.DS_Store
+*.log
+*.tmp
