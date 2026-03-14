@@ -69,7 +69,7 @@ $config_tab = [
     "msg_ora_avviso"     => "Al di fuori di questo intervallo il servizio potrebbe non essere attivo.",
     "alert_disattivo"    => "PER UNO DEI SEGUENTI MOTIVI: <br>Al momento non risultano sostituzioni disponibili. <br>I dati non sono ancora stati aggiornati. <br>Il servizio è temporaneamente in manutenzione.",
     "usa_password"       => true, 
-    "password_accesso"   => "spazio99" 
+    "password_accesso"   => "BasileCambiami"
 ];
 
 // 5. Logica Password con COOKIE PERSISTENTE e REGISTRAZIONE LOG
