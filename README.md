@@ -19,6 +19,33 @@ Se questo strumento ti è utile, puoi supportarne lo sviluppo con un piccolo con
 
 ---
 
+## 🔗 Demo live
+ 
+| Pagina | Link |
+|---|---|
+| 🔒 Pannello Admin | [superscuola.com/sostituzionicapuana](https://www.superscuola.com/sostituzionicapuana/) |
+| 📺 Tabellone Docenti | [superscuola.com/sostituzionicapuana/tabellone.php](https://www.superscuola.com/sostituzionicapuana/tabellone.php) |
+ 
+> Le demo sono quelle dell'installazione reale presso l'I.C. Capuana-De Amicis di Avola (SR). L'accesso è protetto da password.
+ 
+---
+ 
+## 📸 Anteprima
+ 
+### Pannello di Amministrazione
+![Pannello Admin](screenshots/01-pannello-admin.jpg)
+ 
+### Tabellone Digitale Docenti
+![Tabellone](screenshots/02-tabellone.jpg)
+ 
+### Registro Fonogrammi ed Eccedenze
+![Fonogrammi](screenshots/03-fonogrammi.png)
+ 
+### Documento di Stampa con QR Code
+![Stampa](screenshots/04-stampa.jpg)
+ 
+---
+
 ## 📸 Funzionalità principali
 
 | Funzione | Descrizione |
