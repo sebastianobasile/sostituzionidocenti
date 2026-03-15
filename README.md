@@ -43,7 +43,9 @@ Se questo strumento ti è utile, puoi supportarne lo sviluppo con un piccolo con
  
 ### Documento di Stampa con QR Code
 ![Stampa](screenshots/04-stampa.jpg)
- 
+
+ ### Documento di Stampa promemoria da ritagliare
+![Stampa](screenshots/04-stampa_promemoria.jpg)
 ---
 
 ## 📸 Funzionalità principali
