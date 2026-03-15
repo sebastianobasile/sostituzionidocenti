@@ -9,6 +9,16 @@
 
 ---
 
+Sviluppato da **Sebastiano Basile** — [superscuola.com](https://www.superscuola.com)
+
+---
+
+[![Contributo volontario](https://img.shields.io/badge/Offrimi_un_caffè_☕-PayPal-blue)](https://paypal.me/superscuola)
+
+Se questi strumenti ti sono utili, puoi supportarne lo sviluppo con un piccolo contributo volontario. Grazie! ☕
+
+---
+
 ## 📸 Funzionalità principali
 
 | Funzione | Descrizione |
