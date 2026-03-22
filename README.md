@@ -1,8 +1,7 @@
 # 📋 Gestione Sostituzioni Docenti
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php)
-![License](https://img.shields.io/badge/Licenza-MIT-green)
-![Version](https://img.shields.io/badge/Versione-1.0.0-orange)
+[![Licenza: GPL v3](https://img.shields.io/badge/Licenza-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)![Version](https://img.shields.io/badge/Versione-1.0.0-orange)
 ![Scuole italiane](https://img.shields.io/badge/Destinatari-Scuole%20italiane-red)
 ![GitHub stars](https://img.shields.io/github/stars/sebastianobasile/sostituzionidocenti)
 ![GitHub forks](https://img.shields.io/github/forks/sebastianobasile/sostituzionidocenti)
@@ -309,9 +308,10 @@ Questo impedisce di navigare o accedere direttamente ai file JSON tramite browse
 
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza **MIT**. Puoi usarlo, modificarlo e distribuirlo liberamente, anche in contesti scolastici e istituzionali, citando l'autore originale.
-
-Vedi il file [LICENSE](LICENSE) per i dettagli completi.
+Distribuito con licenza **GPL v3**.  
+Puoi usare e modificare liberamente questo strumento, ma le versioni modificate  
+devono essere rilasciate con la stessa licenza open-source.  
+Consulta il file [LICENSE](LICENSE) per i dettagli.
 
 ---
 
